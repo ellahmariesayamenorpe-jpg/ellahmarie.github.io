@@ -1,7 +1,13 @@
-# Ellah Marie Sayam Enorpe — Premium Purple Portfolio
-
-Personalized portfolio website with your professional photo, Basic Plus Homemart visuals, CV, experience, education, services, skills, and contact details.
-
-Edit `index.html` for text, `style.css` for design, and replace/add files in `images/` for portfolio visuals.
-
-The CV is included as `Ellah-Marie-Sayam-Enorpe-CV.pdf` and the website has a Download CV button.
+ellahmarie.github.io
+│
+├── index.html
+├── style.css
+├── script.js
+├── Ellah-Marie-Sayam-Enorpe-CV.pdf
+│
+└── images
+    ├── profile-photo.png
+    ├── basic-homemart-logo.png
+    ├── basic-homemart-interior.png
+    ├── basic-homemart-exterior.jpg
+    └── your-new-photo.jpg
